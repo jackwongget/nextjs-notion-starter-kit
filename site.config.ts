@@ -2,14 +2,14 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '0f7bc031e4df471b99eb84f4b07d19dd',
+  rootNotionPageId: '0000',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Cai Xin - 财信通',
+  name: '0000',
   domain: 'https://caixinnews.notion.site/0f7bc031e4df471b99eb84f4b07d19dd',
   author: 'Caixin',
 
